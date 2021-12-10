@@ -9,4 +9,4 @@ test/test00 -the file with the numbers
 
 # AUTHORS
   * brian kiplangat 
-    @tweet bryatrue 
+    @twitter bryatrue 
